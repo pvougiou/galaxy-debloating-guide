@@ -15,12 +15,12 @@ Tested on:
 
 - List of apps that have been (hopefully!) safely removed as of now:
   ```sh
-  # Facebook
+  # Removing Facebook
   pm uninstall --user 0 com.facebook.appmanager
   pm uninstall --user 0 com.facebook.services
   pm uninstall --user 0 com.facebook.system
   
-  # Samsung Pass
+  # Removing Samsung Pass
   pm uninstall --user 0 com.samsung.android.samsungpassautofill
   pm uninstall --user 0 com.samsung.android.samsungpass
   ```
