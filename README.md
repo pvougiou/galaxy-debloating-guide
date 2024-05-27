@@ -32,6 +32,8 @@ Tested on:
 
 ## References
 
+For the original list of unnecessary apps, please refer to the following resources:
+
 1. https://www.reddit.com/r/GalaxyS23Ultra/comments/153xua6/safely_debloating_our_s23_ultra
 2. https://docs.google.com/spreadsheets/d/12jEGQftFUL3vAI03X0Ku1LgoWFQKdwPA_WHuLh_2ics/edit#gid=0
 3. https://files.catbox.moe/cyf4t1.txt
