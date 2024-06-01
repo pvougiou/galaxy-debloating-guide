@@ -23,6 +23,18 @@ Tested on:
   # Removing Samsung Pass
   pm uninstall --user 0 com.samsung.android.samsungpassautofill
   pm uninstall --user 0 com.samsung.android.samsungpass
+
+  Disclaimer: The removal of the apps is still tentatively recommended since I haven't tested the phone long
+  # enough after their original removal.
+
+  # Removing Microsoft bloatware
+  pm uninstall --user 0 com.microsoft.appmanager  # only useful in-case you'd like to link your phone to Windows
+  pm uninstall --user 0 com.microsoft.skydrive  # removing Microsoft OneDrive
+
+  # Removing Bixby services
+  pm uninstall --user 0 com.samsung.android.bixby.wakeup
+  pm uninstall --user 0 com.samsung.android.bixby.agent
+  pm uninstall --user 0 com.samsung.android.app.settings.bixby
   ```
 
 - Re-booting the device after we're done debloating:
