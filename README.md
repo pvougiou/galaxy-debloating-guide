@@ -1,6 +1,8 @@
 # Debloating Guide for Samsung Galaxy S24
 Simple commands for removing unnecessary Android apps, using Android Debug Bridge (`adb`). The current list of apps is by no means exhaustive, in its current shape, and I'll carry on updating it with new apps that can be safely removed.
 
+This guide assumes that `adb` tools have been installed and are accessible via a regular Linux or macOS terminal.
+
 Tested on:
 - SM-S928B/DS
 - One UI version: 6.1 (Android 14)
