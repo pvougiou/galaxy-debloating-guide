@@ -24,7 +24,7 @@ Tested on:
   pm uninstall --user 0 com.samsung.android.samsungpassautofill
   pm uninstall --user 0 com.samsung.android.samsungpass
 
-  Disclaimer: The removal of the apps is still tentatively recommended since I haven't tested the phone long
+  # Disclaimer: The removal of the apps is still tentatively recommended since I haven't tested the phone long
   # enough after their original removal.
 
   # Removing Microsoft bloatware
