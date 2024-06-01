@@ -41,6 +41,12 @@ Tested on:
   ```sh
   reboot
   ```
+  
+## Wiping Cache Partition
+It usually advised to wipe the cache partition of your device, after any apps removal. This can be performed as follows:
+  1. Shut-down the device and connect to a PC using a USB cable
+  2. Hold the power and volume up buttons at the same time until the phone jumps into Recovery Mode
+  3. Release buttons and confirm Wipe Cache Partition
 
 ## References
 
